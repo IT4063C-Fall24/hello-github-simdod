@@ -23,21 +23,25 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** 
+I learned how to use github and learn more about the basics. 
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** 
+I do struggle with making sure my assignment have pushed through and are viewable. 
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** I don't need any help but i do want feedback on if i pushed my assignment thorugh right. 
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** 
+I didn't use any resources 
 - .
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** 
+I didnt receive any help on this assignment
 - . 
